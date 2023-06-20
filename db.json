@@ -362,7 +362,13 @@
     { "name": "Magic Plate Legs", "price": 120000 , "weight": 5, "stackable": false, "sellto": ["Wulkan"]},
     { "name": "Demonic Backpack", "price": 0 , "weight": 5, "stackable": false, "sellto": ["Players"]},
     { "name": "Blazing Greatsword", "price": 300000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
-    { "name": "Flaming Aegis", "price": 375000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]}
+    { "name": "Flaming Aegis", "price": 375000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
+    { "name": "Ashlord Shield", "price": 40000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
+    { "name": "Ashlord Backpack", "price": 0 , "weight": 5, "stackable": false, "sellto": ["Players"]},
+    { "name": "Heavy Truncheon", "price": 300000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]}
+
+
+
 
 ],
 
@@ -484,7 +490,11 @@
     { "name": "Blood Witch", "items": ["Dark Armor", "Black Shield", "Polished Rubies", "Demonbone Boots", "Demonbone Helmet", "Vampire Shield", "Demonbone Armor", "Boots of Haste", "Black Cat Doll", "Blood Tear", "Deepshadow Robe" ] },
     { "name": "Venerator", "items": ["Polished Sapphire", "Venerator Mask", "Tainted Soul", "Green Spellwand", "Serpent Scepter", "Plaguespreader Rod", "Poison Missile Rune", "Plaguespreader Robe", "Royal Plate Armor", "Ancient Helmet", "Ancient Armor", "Magic Plate Boots", "Lich Grimoire" ] },
     { "name": "Succubus", "items": ["Small Ruby", "Polished Ruby", "Fireweaver", "Red Spellwand", "Fire Axe", "Ring of Healing", "Flaming Bow", "Golden Armor", "Demon Shield", "Royal Helmet", "Broken Whip", "Angry Soul", "Mastermind Shield", "Blazing Crossbow", "High Heels of Seduction", "Heart Backpack (Red)", "Fire Whip "] },
-    { "name": "Flamebringer", "items": ["Knight Axe", "Fire Sword", "Fireweaver", "Fire Axe", "Hellforged Axe", "Blazing Core", "Vanadinite Helmet", "Blazing Crossbow", "Magic Plate Legs", "Magic Plate Boots", "Demonic Backpack", "Blazing Greatsword", "Flaming Aegis"] }
+    { "name": "Flamebringer", "items": ["Knight Axe", "Fire Sword", "Fireweaver", "Fire Axe", "Hellforged Axe", "Blazing Core", "Vanadinite Helmet", "Blazing Crossbow", "Magic Plate Legs", "Magic Plate Boots", "Demonic Backpack", "Blazing Greatsword", "Flaming Aegis"] },
+    { "name": "Ashlord", "items": ["Double Axe", "Orb","Small Emerald", "Fire Axe", "Talon", "Devil Helmet", "Might Ring", "Gold Ring", "Giant Sword", "Platinum Amulet", "Ashlord Shield", "Mastermind Shield", "Golden Legs", "Blazing Crossbow", "Magic Plate Legs", "Ashlord Backpack", "Heavy Truncheon" ] },
+    { "name": "Ashlord", "items": ["Double Axe", "Orb","Small Emerald" ] }
+
+
 
     
 ]
