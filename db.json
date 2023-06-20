@@ -411,7 +411,7 @@
     { "name": "Imperial Soldier", "items": ["Brass Legs", "Crusader Helmet", "Light Sword", "Morning Star", "Imperial Soldier Armor", "Imperial Soldier Shield"] },
     { "name": "Jothun", "items": ["Club Ring", "Crystallized Shield", "Permafrost Morningstar", "Platinum Amulet", "War Hammer"] },
     { "name": "Jothun Elder", "items": ["Crystallized Crossbow", "Frozen Shield", "Silver Mace", "Small Sapphire", "Steel Boots"] },
-    { "name": "Lernaean Hydra", "items": ["Arming Sword", "Assassin Blade", "Light Sword", "Medusa Shield", "Plate Armor", "Poisoned Bow", "Serpent Scepter", "Small Emerald", "Torn Quicksand Boots"] },
+    { "name": "Hydra", "items": ["Arming Sword", "Assassin Blade", "Light Sword", "Medusa Shield", "Plate Armor", "Poisoned Bow", "Serpent Scepter", "Small Emerald", "Torn Quicksand Boots"] },
     { "name": "Lich", "items": ["Black Pearl", "Blue Robe", "Mind Stone", "Platinum Amulet","Ring of Healing", "Strange Helmet", "White Pearl"] },
     { "name": "Lightbringer Hero", "items": ["Bascinet", "Executioner's Sword", "Heavy Halberd", "Hellforged Legs", "Lightbringer Helmet", "Steel Boots"] },
     { "name": "Lightbringer Knight", "items": ["Hellforged Shield", "Knight Armor", "Knight Legs", "Silver Mace", "Swinging Demolisher"] },
