@@ -1,0 +1,10 @@
+*** Fix ***
+* Use binary search for db arrays that are alphabetically sorted.
+
+*** Implement ***
+* Ability to navigate through autocomplete suggestions with the arrow keys
+* Option to blacklist items / locations (sidebar menu)
+* Calculate how many items are in a backpack of a specific item by the weight of the backpack
+* Expand button on the players hunt info to view detailed info about supplies used and cost of each
+* Item sprites on "where to sell"
+* Predetermined hunting spots that adds all the creatures from the hunt.
