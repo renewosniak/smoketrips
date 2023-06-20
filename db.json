@@ -347,7 +347,17 @@
     { "name": "Wooden Maul", "price": 2000, "weight": 200, "stackable": false, "sellto": ["Wulkan"] },
     { "name": "Yellow Gem", "price": 10000, "weight": 0.3, "stackable": false, "sellto": ["Players"] },
     { "name": "Yellow Robe", "price": 18000, "weight": 5, "stackable": false, "sellto": ["Draculd"] },
-    { "name": "Deepshadow Robe", "price": 325000, "weight": 5, "stackable": false, "sellto": ["Drolgruth"] }
+    { "name": "Deepshadow Robe", "price": 325000, "weight": 5, "stackable": false, "sellto": ["Drolgruth"] },
+    { "name": "Polished Sapphire", "price": 3000, "weight": 5, "stackable": false, "sellto": ["Annushka", "Asha", "Astrid", "Dianne", "Edea", "Leunaurd", "Lihsha", "Lona", "Rorin"] },
+    { "name": "Venerator Mask", "price": 500 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
+    { "name": "Tainted Soul", "price": 25000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
+    { "name": "Magic Plate Boots", "price": 80000 , "weight": 5, "stackable": false, "sellto": ["Wulkan"]},
+    { "name": "Lich Grimoire", "price": 108000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]}
+
+
+
+
+
 
 ],
 
@@ -466,6 +476,8 @@
     { "name": "Wight", "items": ["Black Pearl", "Blue Robe", "Bone Shield", "Boots of Haste", "Devil Helmet", "Protection Amulet", "Ring of Healing", "Red Robe", "Silver Amulet", "Skull Staff", "Stone Skin Amulet", "Tower Shield", "White Pearl"] },
     { "name": "Wild Warrior", "items": ["Brass Armor", "Brass Shield", "Iron Helmet", "Mace", "Steel Shield", "War Hammer"] },
     { "name": "Wraith", "items": ["Blue Hood", "Blue Robe", "Permafrost Longsword", "Permafrost Morningstar", "Small Sapphire", "Wand of Light"] },
-    { "name": "Blood Witch", "items": ["Dark Armor", "Black Shield", "Polished Rubies", "Demonbone Boots", "Demonbone Helmet", "Vampire Shield", "Demonbone Armor", "Boots of Haste", "Black Cat Doll", "Blood Tear", "Deepshadow Robe" ] }
+    { "name": "Blood Witch", "items": ["Dark Armor", "Black Shield", "Polished Rubies", "Demonbone Boots", "Demonbone Helmet", "Vampire Shield", "Demonbone Armor", "Boots of Haste", "Black Cat Doll", "Blood Tear", "Deepshadow Robe" ] },
+    { "name": "Venerator", "items": ["Polished Sapphire", "Venerator Mask", "Tainted Soul", "Green Spellwand", "Serpent Scepter", "Plaguespreader Rod", "Poison Missile Rune", "Plaguespreader Robe", "Royal Plate Armor", "Ancient Helmet", "Ancient Armor", "Magic Plate Boots", "Lich Grimoire" ] }
+    
 ]
 }
