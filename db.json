@@ -352,11 +352,13 @@
     { "name": "Venerator Mask", "price": 500 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
     { "name": "Tainted Soul", "price": 25000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
     { "name": "Magic Plate Boots", "price": 80000 , "weight": 5, "stackable": false, "sellto": ["Wulkan"]},
-    { "name": "Lich Grimoire", "price": 108000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]}
-
-
-
-
+    { "name": "Lich Grimoire", "price": 108000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
+    { "name": "Polished Ruby", "price": 3000 , "weight": 5, "stackable": false, "sellto": ["Annushka", "Asha", "Astrid", "Dianne", "Edea", "Leunaurd", "Lihsha", "Lona", "Rorin"]},
+    { "name": "Broken Whip", "price": 23500 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
+    { "name": "Angry Soul", "price": 20000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
+    { "name": "High Heels of Seduction", "price": 84000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
+    { "name": "Heart Backpack (Red)", "price": 0 , "weight": 5, "stackable": false, "sellto": ["Players"]},
+    { "name": "Fire Whip", "price": 220000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]}
 
 
 ],
@@ -477,7 +479,11 @@
     { "name": "Wild Warrior", "items": ["Brass Armor", "Brass Shield", "Iron Helmet", "Mace", "Steel Shield", "War Hammer"] },
     { "name": "Wraith", "items": ["Blue Hood", "Blue Robe", "Permafrost Longsword", "Permafrost Morningstar", "Small Sapphire", "Wand of Light"] },
     { "name": "Blood Witch", "items": ["Dark Armor", "Black Shield", "Polished Rubies", "Demonbone Boots", "Demonbone Helmet", "Vampire Shield", "Demonbone Armor", "Boots of Haste", "Black Cat Doll", "Blood Tear", "Deepshadow Robe" ] },
-    { "name": "Venerator", "items": ["Polished Sapphire", "Venerator Mask", "Tainted Soul", "Green Spellwand", "Serpent Scepter", "Plaguespreader Rod", "Poison Missile Rune", "Plaguespreader Robe", "Royal Plate Armor", "Ancient Helmet", "Ancient Armor", "Magic Plate Boots", "Lich Grimoire" ] }
+    { "name": "Venerator", "items": ["Polished Sapphire", "Venerator Mask", "Tainted Soul", "Green Spellwand", "Serpent Scepter", "Plaguespreader Rod", "Poison Missile Rune", "Plaguespreader Robe", "Royal Plate Armor", "Ancient Helmet", "Ancient Armor", "Magic Plate Boots", "Lich Grimoire" ] },
+    { "name": "Succubus", "items": ["Small Ruby", "Polished Ruby", "Fireweaver", "Red Spellwand", "Fire Axe", "Ring of Healing", "Flaming Bow", "Golden Armor", "Demon Shield", "Royal Helmet", "Broken Whip", "Angry Soul", "Mastermind Shield", "Blazing Crossbow", "High Heels of Seduction", "Heart Backpack (Red)", "Fire Whip "] }
+    
+
+
     
 ]
 }
